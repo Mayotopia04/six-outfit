@@ -2,7 +2,7 @@
   "name": "slim-mom-frontend",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://slim-mom-frontend.vercel.app/",
+  "homepage": "https://mayotopia04.github.io/six-outfit/",
   "dependencies": {
     "@moeindana/google-oauth": "^0.1.5",
     "@react-oauth/google": "^0.12.1",
